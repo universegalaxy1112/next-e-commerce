@@ -1,0 +1,22 @@
+{
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json",
+	"words": [
+		"autoplay",
+		"Baatchia",
+		"Embla",
+		"Gabbana",
+		"Ganni",
+		"headlessui",
+		"heroicons",
+		"msedge",
+		"Parens",
+		"pnpm",
+		"Prata",
+		"stripejs",
+		"tailwindcss",
+		"tsbuildinfo",
+		"Versace",
+		"todos"
+	],
+	"ignorePaths": ["pnpm-lock.yaml", "*.tsbuildinfo"]
+}
